@@ -1,14 +1,15 @@
 # React Native + Supabase Template
 
 A professional, production-ready React Native template with Supabase backend, TypeScript, and modern development practices.
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 46" src="https://github.com/user-attachments/assets/ed295fc4-ccfd-4498-a7ba-c0bc45e14999" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 50" src="https://github.com/user-attachments/assets/f076fa8f-3380-4b95-81bb-d39a9721f40b" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 54" src="https://github.com/user-attachments/assets/ffaf09bd-4798-4023-82b0-e87ce7ea2a5c" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 56" src="https://github.com/user-attachments/assets/d41a71d7-073a-48d4-9d56-7004495eb1a4" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 06" src="https://github.com/user-attachments/assets/003473a0-3030-4b2e-8b0f-767b0816e477" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 39" src="https://github.com/user-attachments/assets/eceb27a7-2dec-41a3-84c8-711815bdc50c" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 43" src="https://github.com/user-attachments/assets/a46ac4e0-495a-4cc6-8bcc-e9de75cad342" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 54" src="https://github.com/user-attachments/assets/dc6176de-6ccc-4772-a9a5-08987b4b44ea" />
+ 
+![resized_8](https://github.com/user-attachments/assets/d1747c5e-da1b-4118-9ae4-1e0b952e0d6a)
+![resized_4](https://github.com/user-attachments/assets/6ed5b4f9-7abb-4d16-89b6-b9ffe120706b)
+![resized_5](https://github.com/user-attachments/assets/b0549796-54cc-41f2-916c-28ee288f0616)
+![resized_6](https://github.com/user-attachments/assets/22215693-69e9-4bc5-bbc1-c77e43a0a43f)
+![resized_7](https://github.com/user-attachments/assets/eff43354-fe5b-4c4a-bbf6-0bc2cb3968d7)
+![resized_1](https://github.com/user-attachments/assets/5b1bc62a-7acd-4149-884b-fd031e94732a)
+![resized_2](https://github.com/user-attachments/assets/607c2038-631e-4350-83c8-c7552eecd52f)
+![resized_3](https://github.com/user-attachments/assets/b5eca834-e55d-419f-a53d-c90164cb6ed5)
 
 ## 🚀 Features
 
