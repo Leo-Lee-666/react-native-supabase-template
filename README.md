@@ -2,14 +2,14 @@
 
  React Native template with Supabase backend, TypeScript, and modern development practices.
  
-<img src="https://github.com/user-attachments/assets/d1747c5e-da1b-4118-9ae4-1e0b952e0d6a" width="80" />
-<img src="https://github.com/user-attachments/assets/6ed5b4f9-7abb-4d16-89b6-b9ffe120706b" width="80" />
-<img src="https://github.com/user-attachments/assets/b0549796-54cc-41f2-916c-28ee288f0616" width="80" />
-<img src="https://github.com/user-attachments/assets/22215693-69e9-4bc5-bbc1-c77e43a0a43f" width="80" />
-<img src="https://github.com/user-attachments/assets/eff43354-fe5b-4c4a-bbf6-0bc2cb3968d7" width="80" />
-<img src="https://github.com/user-attachments/assets/5b1bc62a-7acd-4149-884b-fd031e94732a" width="80" />
-<img src="https://github.com/user-attachments/assets/607c2038-631e-4350-83c8-c7552eecd52f" width="80" />
-<img src="https://github.com/user-attachments/assets/b5eca834-e55d-419f-a53d-c90164cb6ed5" width="80" />
+<img src="https://github.com/user-attachments/assets/d1747c5e-da1b-4118-9ae4-1e0b952e0d6a" width="90" />
+<img src="https://github.com/user-attachments/assets/6ed5b4f9-7abb-4d16-89b6-b9ffe120706b" width="90" />
+<img src="https://github.com/user-attachments/assets/b0549796-54cc-41f2-916c-28ee288f0616" width="90" />
+<img src="https://github.com/user-attachments/assets/22215693-69e9-4bc5-bbc1-c77e43a0a43f" width="90" />
+<img src="https://github.com/user-attachments/assets/eff43354-fe5b-4c4a-bbf6-0bc2cb3968d7" width="90" />
+<img src="https://github.com/user-attachments/assets/5b1bc62a-7acd-4149-884b-fd031e94732a" width="90" />
+<img src="https://github.com/user-attachments/assets/607c2038-631e-4350-83c8-c7552eecd52f" width="90" />
+<img src="https://github.com/user-attachments/assets/b5eca834-e55d-419f-a53d-c90164cb6ed5" width="90" />
 
 ## 🚀 Features
 
