@@ -1,6 +1,14 @@
 # React Native + Supabase Template
 
 A professional, production-ready React Native template with Supabase backend, TypeScript, and modern development practices.
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 46" src="https://github.com/user-attachments/assets/ed295fc4-ccfd-4498-a7ba-c0bc45e14999" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 50" src="https://github.com/user-attachments/assets/f076fa8f-3380-4b95-81bb-d39a9721f40b" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 54" src="https://github.com/user-attachments/assets/ffaf09bd-4798-4023-82b0-e87ce7ea2a5c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 46 56" src="https://github.com/user-attachments/assets/d41a71d7-073a-48d4-9d56-7004495eb1a4" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 06" src="https://github.com/user-attachments/assets/003473a0-3030-4b2e-8b0f-767b0816e477" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 39" src="https://github.com/user-attachments/assets/eceb27a7-2dec-41a3-84c8-711815bdc50c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 43" src="https://github.com/user-attachments/assets/a46ac4e0-495a-4cc6-8bcc-e9de75cad342" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 12 47 54" src="https://github.com/user-attachments/assets/dc6176de-6ccc-4772-a9a5-08987b4b44ea" />
 
 ## 🚀 Features
 
